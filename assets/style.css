@@ -1,0 +1,82 @@
+* {
+        padding: 0;
+        margin: 0;
+}
+
+.header-pro {
+        background-image: url(image\ 1.png);
+       
+}
+.text-end{
+
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+        justify-content: center;
+}
+.text-center
+{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+}
+.text-white {
+        color: white;
+}
+
+nav ul li {
+        margin: 0 50px;
+        /* Adjust the margin to set the space between items */
+}
+.bg-black{
+background-color: black;
+}
+.bg-color{
+        background-color: #00151A;
+}
+.social-icons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px; /* Adjust the gap between icons as needed */
+    }
+    .oval {
+        width: 500.08px;
+        height: 500px;
+        background-color:black;
+        color: white;
+        border-radius: 97px; /* Creates the oval shape */
+        text-align: center;
+        line-height: 320px;  
+        font-size: 20px;
+        margin: 50px;
+         
+    }
+    .oval p {
+        font-size: 14px; /* Adjust the font size as needed */
+        line-height: 1.2;
+    }
+.oval img{
+        width: 290px;
+        height: 272px;
+}
+     
+    .margin{
+        margin-left: 500px;
+        margin-top: -50px;
+        margin-bottom: -50px ;
+    }
+    .contact-pro {
+        background-color: #000000;
+        color: white;
+}
+.section-title {
+        margin-bottom: 0; /* Remove margin below h2 */
+    }
+    
+    
+    
+    
+    
+    
